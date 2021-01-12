@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 marquee {
     background-color: blue;
     color: white;
@@ -67,3 +71,23 @@ marquee {
     margin-top: 10px;
 }
 
+#footer {
+    height: 20px;
+    background-color: white;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
